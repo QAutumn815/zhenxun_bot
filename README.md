@@ -1,4 +1,4 @@
-<div align=center><img width="320" height="320" src="https://raw.githubusercontent.com/HibiKier/zhenxun_bot/main/logo.png"/></div>
+<div align=center><img width="320" height="320" src="https://imgtu.com/i/OLN1ln"/></div>
 
 ![maven](https://img.shields.io/badge/python-3.8%2B-blue)
 ![maven](https://img.shields.io/badge/nonebot-2.0.0-yellow)
